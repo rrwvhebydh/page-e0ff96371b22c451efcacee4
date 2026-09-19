@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "b5324577b6335a976853eeb9",
+  "owner": "rrwvhebydh",
+  "repo": "page-e0ff96371b22c451efcacee4",
+  "title": "饿了么(Element)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e0ff96371b22c451efcacee4",
+      "a": "饿了么(Element)",
+      "b": "免费订阅导入",
+      "entity": "饿了么(Element)",
+      "brand": "饿了么(Element)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8c6d25e3f38d1a438ead6fe3a0362768b332f79214a906cf70900c2edef92993",
+      "content": {
+        "primary_entity": "饿了么(Element)",
+        "keyword1": "饿了么(Element)",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 及路由器可按需选择适配客户端。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "按设备与流量需求选好套餐，即可完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_DESCRIPTION": "，面向需要稳定海外网络访问的用户提供订阅服务。基础版适合轻量使用，旗舰版覆盖流媒体与游戏加速，团队版满足多设备高流量场景。按年付可节省费用，订阅导入后即可在常用客户端使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度挑选，能更快匹配日常使用场景。",
+          "AI_FEATURES_TITLE": "选择更贴合需求的套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量与 3 台设备，适合日常浏览与轻度流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量与 5 台设备，含原生流媒体解锁和 IPLC 专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量与 20 台设备，支持定制路由和高带宽节点。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "均衡主力",
+          "AI_FEATURE_TITLE_3": "多设备共享",
+          "AI_GUIDE_INTRO": "确认服务版本、核对设备支持、按客户端文档导入订阅地址。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "饿了么(Element)提供多档海外网络加速订阅，按流量与设备数区分套餐。基础版、旗舰版和团队版分别面向个人轻度使用、流媒体游戏场景与多设备团队。按年付能降低月均成本，订阅导入后在常用客户端完成配置。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选",
+          "AI_HIGHLIGHT_1": "流量与设备数分档清晰",
+          "AI_HIGHLIGHT_2": "流媒体与游戏线路可选",
+          "AI_HIGHLIGHT_3": "按年付月均成本更低",
+          "AI_PLANS_INTRO": "基础版 ¥15/月（年付 ¥150）、旗舰版 ¥35/月（年付 ¥350）、团队版 ¥85/月（年付 ¥850）。可按月付或按年付，按设备数量和月流量确定档位。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据使用人数与月流量，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "核对设备数量、客户端系统和流媒体或游戏加速需求是否满足。",
+          "AI_STEP_TEXT_3": "在对应客户端文档中导入订阅地址，按说明完成配置并连接。",
+          "AI_STEP_TITLE_1": "确认服务版本",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅地址",
+          "AI_VISUAL_TITLE": "饿了么(Element)订阅服务",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备；旗舰版 300GB 流量、5 台设备；团队版 1000GB 流量、20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台，可按家庭成员或团队人数选择。",
+          "AI_FAQ_ANSWER_3": "旗舰版与团队版对 IPLC 专线和原生流媒体解锁做了优化，基础版提供普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "客户端导入订阅链接后按文档配置即可使用，不同终端的客户端名称和操作方式略有区别。",
+          "AI_FAQ_ANSWER_5": "各套餐均提供月付与年付两种周期，年付价格通常低于按月累计支付，可按使用时长选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐的流量和设备数分别是多少？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何选择？",
+          "AI_FAQ_QUESTION_3": "不同套餐的线路和流媒体支持有区别吗？",
+          "AI_FAQ_QUESTION_4": "如何在常用设备上配置订阅？",
+          "AI_FAQ_QUESTION_5": "按月付费和按年付费怎么选？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "545cbec1f970e0f96441345fea0cf14286d6d729ce42f3a82c435b9e96e0e790",
+    "sitemap.xml": "19054b247ac4e35c8e015e93ecb52dfe0f60f91c67bf9903da0d42b29e22f41a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2533b7c5e48159e2c6561b71e1fff9c22c679e5200ac6f600e4920bdde1b9cd8"
+}
